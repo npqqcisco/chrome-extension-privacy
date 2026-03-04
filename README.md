@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    Privacy Policy
 </head>
 <body>
     <h1>Privacy Policy</h1>
